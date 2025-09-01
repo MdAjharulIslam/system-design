@@ -1,4 +1,4 @@
-System Design Concepts i Know
+# System Design Concepts i Know,
 
 DNS (Domain Name System) – translates domain names to IP addresses.
 
@@ -15,3 +15,7 @@ CDN (Content Delivery Network) – caches static content closer to users for fas
 Vertical Scaling – increasing the resources of a single server (CPU, RAM, storage).
 
 Horizontal Scaling – adding more servers to handle increased load.
+
+IP Address – unique identifier for devices on a network.
+
+OSI Model – conceptual model with 7 layers explaining network communication:
