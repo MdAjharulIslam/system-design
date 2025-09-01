@@ -19,3 +19,5 @@ Horizontal Scaling – adding more servers to handle increased load.
 IP Address – unique identifier for devices on a network.
 
 OSI Model – conceptual model with 7 layers explaining network communication:
+
+Queue System / Asynchronous Processing – using message queues to process tasks asynchronously, improving scalability and responsiveness (e.g., Kafka, RabbitMQ, SQS).
