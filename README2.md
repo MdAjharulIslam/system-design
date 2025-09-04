@@ -34,3 +34,4 @@ Scalability
 
 Storage
 
+Event Sourcing
