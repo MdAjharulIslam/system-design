@@ -27,3 +27,10 @@ Caching – storing frequently accessed data for faster retrieval (e.g., Redis, 
 Serverless – running code without managing servers; cloud provider handles scaling and execution (e.g., AWS Lambda, Google Cloud Functions).
 
 Spiking – sudden surge in traffic or workload that can overload servers if the system isn’t designed to handle it (e.g., Black Friday sale, viral content).
+
+Availability
+
+Scalability
+
+Storage
+
